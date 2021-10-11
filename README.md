@@ -1,5 +1,6 @@
-Name  Lab №  Progress
-
-Chess   (1.4)   +
-Branch  (1.5)   +
-Bit     (1.6)   +
+<table>
+  <tr><th>Имя</th><th>№ лабораторной</th><th>Статус</th></tr>
+  <tr><td>Логические выражения в условном операторе</td><td>1.4</td><td>+</td></tr>
+  <tr><td>Ветвления</td><td>1.5</td><td>+</td></tr>
+  <tr><td>Битовые операции</td><td>1.6</td><td>+</td></tr>
+</table>
